@@ -19,7 +19,4 @@ Una app desarrollada en dos semanas, realizando dailies diarias y meets durante 
 - Fabian Tureo - Integrante de grupo.
 - Sabrina Fernandez - Integrante de grupo.
 - Lucas Cachazo - Integrante de grupo.
-# Expresiones de Gratitud 🎁
-Se agradece a Fernando Biaus por la mentoría y la dedicación. <br/>
-A todos los integrantes del equipo por la gran dedicacion con la que se desenvolvieron y por el resultado obtenido! <br/>
-También a Mindhub por la oportunidad de crecer como developers.
+
